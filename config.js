@@ -1,8 +1,8 @@
 module.exports = {
-    TOKEN: "",
-    ownerID: "", //write your discord user id.
+    TOKEN: "ODQ0NTMwNjc1NzcxNzY4ODUy.GV2Yxa.BDBAWxuyvY49Jb8DJfAOxAeFbUIYsbyQlA4DMY",
+    ownerID: "370195417360629770", //write your discord user id.
     botInvite: "", //write your discord bot invite.
-    status: '❤️ Umut Bayraktar',
+    status: 'Gangster Jatt As Phuck',
     commandsDir: './commands', //Please don't touch
 
     opt: {
@@ -12,7 +12,7 @@ module.exports = {
 
         voiceConfig: {
             leaveOnEnd: false, //If this variable is "true", the bot will leave the channel the music ends.
-            autoSelfDeaf: false, //IF YOU WANT TO DEAF THE BOT, set false to true.
+            autoSelfDeaf: true, //IF YOU WANT TO DEAF THE BOT, set false to true.
 
             leaveOnTimer: { //The leaveOnEnd variable must be "false" to use this system.
                 status: true, //If this variable is "true", the bot will leave the channel when the bot is offline.
